@@ -1,4 +1,4 @@
-#PyDupeStats
+# PyDupeStats
 **A Python tool used to detect duplicate blocks of data in a given data set**
 
 PyDupeStats is a tool written in Python for analyzing file sets for duplicate blocks/chunks. This is useful for determining inter-file and intra-file similarity at varying chunk sizes.
