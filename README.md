@@ -71,7 +71,7 @@ This argument supplies which path will be scanned.
 
 This tool is pretty simple but is not without its shortcomings; all contributions are welcomed.
 
-Aside from working on the random **TODO:** and enhancing the performance of the tool in the short term, I would like to see duplication assessment capabilities beyond that of rudimentary file layer access. For example, analyzing file constructs which could provide additional context for where an offset should start, or varying chunk length may be more appropriate. Additionally, adding support for additional interfaces such as S3 object storage, 
+Aside from working on the random **TODO:** and enhancing the performance of the tool in the short term, I would like to see duplication assessment capabilities beyond that of rudimentary file layer access. For example, analyzing file constructs which could provide additional context for where an offset should start, or varying chunk length may be more appropriate. Additionally, adding support for higher-level interfaces such as S3 object storage.
 
 I welcome all feedback and contributions.
 
