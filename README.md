@@ -12,8 +12,8 @@ This was developed and tested in Python 3.x on Windows 10. There is no installat
 ### To get started:
 
 1. Clone the repo or simply download the PyDupeStats.py file
-2. From a command prompt or shell, run 'python PyDupeStats.py "/\/\Server\Path\To\Analyze" desired_chunk_size'
-3. e.g. python PyDupeStats.py "\\\us-namespace\finance\payroll" 16384
+2. From a command prompt or shell, run 'python PyDupeStats.py "\\\\Server\Path\To\Analyze" desired_chunk_size'
+3. e.g. python PyDupeStats.py "\\\\us-namespace\finance\payroll" 16384
 4.      In the example above, PyDupeStats will run, recursively scan every file in the given UNC path and inspect each file at a chunk size of 16384 bytes.
 5.      Note: If running on Windows, this assumes that python binaries are included in PATH system variables on Windows
 6. Enter the location and name of the temporary file which will record the hashes for the given run.
