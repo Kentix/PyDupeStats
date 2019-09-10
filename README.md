@@ -32,7 +32,7 @@ This was developed and tested in Python 3.x on Windows 10. There is no installat
     Average Speed in MBytes/Second: 34.64
     Average Speed in GBytes/Minute: 2.03
     Average Speed in GBytes/Hour: 121.78
-    \# of chunks with the same 8192 byte chunk hash: 24720979
+    # of chunks with the same 8192 byte chunk hash: 24720979
     Chunk Size in Bytes: 8192
     File Path for Recording Hashes: S:\Temp\ISO_Files_E_Drive_8192.hashes
     Total objects processed: 1852
